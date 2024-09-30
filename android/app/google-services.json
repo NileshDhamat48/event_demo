@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "755953846807",
+    "firebase_url": "https://voice-recorder-eafd9-default-rtdb.firebaseio.com",
+    "project_id": "voice-recorder-eafd9",
+    "storage_bucket": "voice-recorder-eafd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755953846807:android:5f1ca2897a42f8c2f82a52",
+        "android_client_info": {
+          "package_name": "com.voicerecorder.recording.audiorecorder.transcribe.transcribeaudio.memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755953846807-5f9davfdh84572tu8ejpqcu8otu3ivn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voicerecorder.recording.audiorecorder.transcribe.transcribeaudio.memo",
+            "certificate_hash": "40aee4a83629b3d504f65659e6e85315328a355f"
+          }
+        },
+        {
+          "client_id": "755953846807-bg6d4uq23cg6cunmb0qli4ps270asoq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voicerecorder.recording.audiorecorder.transcribe.transcribeaudio.memo",
+            "certificate_hash": "2a737592a6fcf93cbf99bf64720a356461b5e98c"
+          }
+        },
+        {
+          "client_id": "755953846807-v6ijkrpsb37m5qbu69vvn9tqth6v06pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voicerecorder.recording.audiorecorder.transcribe.transcribeaudio.memo",
+            "certificate_hash": "ac975b3438f132943322f831075a712b4a1f7ee0"
+          }
+        },
+        {
+          "client_id": "755953846807-vsjvvv8n6e5gcckranp5q36vjksi5vdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8p2pkuCXQLEJvRTgVbB5xpSHvPAi4Owo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755953846807-vsjvvv8n6e5gcckranp5q36vjksi5vdl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755953846807-vfmhfoenf9kegu9vdoorafva9lpm74nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aaci.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
